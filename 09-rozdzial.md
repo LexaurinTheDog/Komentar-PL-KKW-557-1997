@@ -908,13 +908,13 @@ Przepis zawiera odesłanie zewnętrzne, wskazujące, że użycie i wykorzystanie
 >
 > § 2. W szczególności tracą moc:
 >
-> 1) ustawa z dnia 19 kwietnia 1969 r. – Kodeks karny wykonawczy (Dz. U. poz. 98, z późn. zm.);
+> 1) ustawa z dnia 19 kwietnia 1969 r. – Kodeks karny wykonawczy (Dz. U. poz. 98, z późn. zm.⁽²⁰⁾);
 >
 > 2) przepisy:
 >
 > a) art. 36 i 37 ustawy z dnia 20 czerwca 1985 r. o prokuraturze (Dz. U. z 1994 r. poz. 70 i 509, z 1995 r. poz. 163 oraz z 1996 r. poz. 367), b) o stosunku Państwa do Kościołów, dotyczące wykonywania praktyk religijnych osób skazanych i tymczasowo aresztowanych.
 
-*Odnośnik w tekście jednolitym:* Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1975 r. poz. 234, z 1982 r. poz. 125 i 289, z 1985 r. poz. 100 i 138, z 1988 r. poz. 135, z 1990 r. poz. 85, 198 i 206, z 1995 r. poz. 475 oraz z 1996 r. poz. 283.
+*Odnośnik w tekście jednolitym* 20) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1975 r. poz. 234, z 1982 r. poz. 125 i 289, z 1985 r. poz. 100 i 138, z 1988 r. poz. 135, z 1990 r. poz. 85, 198 i 206, z 1995 r. poz. 475 oraz z 1996 r. poz. 283.
 
 Przepis zawiera klasyczną klauzulę derogacyjną, uchylającą dotychczasowe przepisy w zakresie unormowanym kodeksem. Paragraf 1 formułuje zasadę ogólną: z dniem wejścia w życie kodeksu tracą moc dotychczasowe przepisy dotyczące spraw w nim unormowanych. Paragraf 2 precyzuje tę derogację poprzez wskazanie konkretnych aktów tracących moc: poprzednio obowiązującego Kodeksu karnego wykonawczego z 19 kwietnia 1969 r. (pkt 1), do którego dołączony jest urzędowy przypis wymieniający wszystkie publikatory zmian tej ustawy dokonanych na przestrzeni lat jej obowiązywania, co dokumentuje pełną historię legislacyjną uchylanego aktu; przepisów art. 36 i 37 ustawy z 20 czerwca 1985 r. o prokuraturze (pkt 2 lit. a); oraz przepisów o stosunku Państwa do Kościołów dotyczących wykonywania praktyk religijnych osób skazanych i tymczasowo aresztowanych (pkt 2 lit. b) – ta ostatnia derogacja jest konsekwencją kompleksowego uregulowania w nowym kodeksie kwestii wolności religijnej osadzonych, wcześniej częściowo unormowanej w odrębnych aktach dotyczących stosunków wyznaniowych.
 
