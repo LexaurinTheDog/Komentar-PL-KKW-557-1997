@@ -13,12 +13,10 @@
 > § 3. Wniosek skazanego o zatarcie skazania, złożony przed upływem roku od wydania postanowienia odmawiającego zatarcia, można pozostawić bez rozpoznania.
 >
 > § 4. Na postanowienie w przedmiocie zatarcia skazania przysługuje zażalenie.
->
-> Uczestnictwo społeczeństwa w wykonywaniu orzeczeń, pomoc w społecznej readaptacji skazanych
 
 Przepis zamyka rozdział VI kodeksu, poświęcony zatarciu skazania, i reguluje kwestie proceduralne związane z tą instytucją, której materialnoprawne przesłanki określa Kodeks karny. Artykuł 37 nie rozstrzyga, kiedy zatarcie skazania następuje, lecz wskazuje, w jakim trybie i przed jakim sądem sprawa ta jest rozpoznawana wówczas, gdy nie zachodzi zatarcie z mocy samego prawa. Paragraf 1 wprowadza zasadę, że o zatarciu skazania orzeka sąd w drodze postanowienia, chyba że skutek ten następuje automatycznie, bez potrzeby wydawania odrębnego rozstrzygnięcia; sytuacja taka ma miejsce zwłaszcza wtedy, gdy upływ terminu przewidzianego w przepisach prawa karnego materialnego powoduje zatarcie skazania ex lege, bez konieczności potwierdzania tego faktu przez sąd, choć w praktyce zainteresowany może wystąpić o wydanie stosownego zaświadczenia. Paragraf 2 rozstrzyga problem właściwości sądu w sytuacji, gdy skazany był karany kilkukrotnie przez różne sądy pierwszej instancji – właściwy do orzekania o zatarciu skazania jest wówczas sąd, który jako ostatni wydał wyrok skazujący, a jeżeli orzekały sądy różnego rzędu (np. sąd rejonowy i sąd okręgowy), decyduje sąd wyższego rzędu, niezależnie od chronologii wydawania wyroków. Rozwiązanie to ma zapewnić rozpoznanie sprawy przez sąd dysponujący pełniejszą wiedzą o całokształcie karalności skazanego. Paragraf 3 wprowadza mechanizm ograniczający nadużywanie wniosków o zatarcie skazania – jeżeli wcześniejszy wniosek został prawomocnie oddalony, ponowny wniosek złożony przed upływem roku od wydania postanowienia odmownego może zostać pozostawiony bez rozpoznania, co ma charakter fakultatywny i pozostawione jest ocenie sądu, a nie automatyzmowi. Paragraf 4 przyznaje skazanemu środek zaskarżenia w postaci zażalenia na postanowienie w przedmiocie zatarcia skazania, zarówno pozytywne, jak i odmowne, co stanowi realizację ogólnej zasady dwuinstancyjności postępowania wykonawczego.
 
-#### Rozdział VII
+#### Rozdział VII — Uczestnictwo społeczeństwa w wykonywaniu orzeczeń, pomoc w społecznej readaptacji skazanych oraz Fundusz Pomocy Pokrzywdzonym oraz Pomocy Postpenitencjarnej
 
 ### Art. 38
 
@@ -441,12 +439,10 @@ Przepis, dodany nowelizacją wchodzącą w życie z dniem 1 stycznia 2026 r., wp
 > § 2. Jeżeli osoba chroniona nie wystąpi z wnioskiem, o którym mowa w § 1, w terminie miesiąca od otrzymania pouczenia, albo oświadczy, że nie będzie korzystać z rejestratora, sąd orzeka o zmianie dozoru zbliżeniowego na dozór mobilny. Przepisy art. 43i § 1 i art. 43k § 1 stosuje się odpowiednio.
 >
 > § 3. Na postanowienie o zmianie dozoru zbliżeniowego na dozór mobilny przysługuje zażalenie stronom i osobie chronionej.
->
-> Warunki i tryb orzekania o udzieleniu skazanemu zezwolenia na odbycie kary pozbawienia wolności
 
 Przepis reguluje szczególną sytuację związaną z dozorem zbliżeniowym stosowanym w wykonaniu zakazu zbliżania się do określonej osoby, chroniąc interesy tej osoby jako podmiotu wprawdzie nieobjętego bezpośrednio dozorem, lecz istotnie dotkniętego jego funkcjonowaniem. Paragraf 1 nakłada na sąd obowiązek pouczenia osoby, do której skazany ma zakaz się zbliżać, o prawie do wystąpienia z wnioskiem o wyposażenie jej w rejestrator przenośny albo stacjonarny, a także o treści art. 43s i art. 43v, regulujących zasady posługiwania się takim rejestratorem oraz konsekwencje związane z jego funkcjonowaniem. Paragraf 2 przewiduje, że jeżeli osoba chroniona nie wystąpi z takim wnioskiem w terminie miesiąca od otrzymania pouczenia albo oświadczy, że nie będzie korzystać z rejestratora, sąd orzeka o zmianie dozoru zbliżeniowego na dozór mobilny, stosując odpowiednio przepisy o żądaniu informacji od podmiotu dozorującego (art. 43i § 1) oraz o treści postanowienia o rozpoczęciu dozoru (art. 43k § 1) – rozwiązanie to zapewnia, że brak współdziałania osoby chronionej nie uniemożliwia efektywnego wykonywania środka wobec skazanego, lecz jedynie zmienia technikę kontroli z opartej na rejestratorze osoby chronionej na kontrolę bieżącego położenia skazanego. Paragraf 3 przyznaje zażalenie na postanowienie o zmianie dozoru zbliżeniowego na dozór mobilny zarówno stronom postępowania, jak i osobie chronionej, co podkreśla, że jej interes prawny w tym rozstrzygnięciu jest chroniony niezależnie od formalnego statusu strony.
 
-#### Oddział 2a
+#### Oddział 2a — Warunki i tryb orzekania o udzieleniu skazanemu zezwolenia na odbycie kary pozbawienia wolności w systemie dozoru elektronicznego
 
 ### Art. 43la
 

@@ -153,12 +153,10 @@ Przepis reguluje sytuację szczególną – tymczasowo aresztowanego, wobec któ
 **Brzmienie przepisu:**
 
 > Art. 223aa. W wypadkach, o których mowa w art. 223 § 6, sąd wraz z postanowieniem o tymczasowym aresztowaniu przesyła dyrektorowi aresztu śledczego posiadane informacje, o których mowa w art. 11 § 2, niezbędne do wykonywania tymczasowego aresztowania.
->
-> Umieszczanie tymczasowo aresztowanych i skazanych odbywających karę pozbawienia wolności
 
 Przepis wprowadza obowiązek informacyjny sądu wobec dyrektora aresztu śledczego w wypadkach szczególnych, o których mowa w art. 223 § 6, a więc dotyczących osób podlegających uznaniu lub wykonaniu orzeczeń zagranicznych. Wraz z postanowieniem o tymczasowym aresztowaniu sąd przesyła dyrektorowi posiadane informacje, o których mowa w art. 11 § 2, niezbędne do wykonywania tymczasowego aresztowania. Rozwiązanie to ma zapewnić administracji aresztu śledczego dostęp do danych istotnych dla prawidłowego, bezpiecznego i zgodnego z prawem wykonywania izolacji wobec osób, których sytuacja prawna wynika z wcześniejszego postępowania toczącego się przed sądem państwa obcego lub w ramach współpracy międzynarodowej, a które z natury rzeczy mogą nie być dyrektorowi znane z akt krajowego postępowania karnego.
 
-#### Rozdział XVa
+#### Rozdział XVa — Umieszczanie tymczasowo aresztowanych i skazanych odbywających karę pozbawienia wolności — w wydzielonych pomieszczeniach lub pomieszczeniach dla osób zatrzymanych
 
 ### Art. 223b
 
